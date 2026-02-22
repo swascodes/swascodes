@@ -1,4 +1,5 @@
 
+<img src="giphy.gif" width="100%" />
 <div align="center">
 
 ## hi, I'm swastika
