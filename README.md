@@ -1,5 +1,5 @@
 
-<img src="giphy(1).gif" width="100%" />
+<img src="giphy (1).gif" width="100%" />
 <div align="center">
 
 ## hi, I'm swastika
