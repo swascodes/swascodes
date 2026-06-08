@@ -1,11 +1,13 @@
 
-<img src="giphy (2).gif" width="100%" />
+
+
 <div align="center">
 
 ## hi, I'm swastika
+### 🌟 [**Check Out My Portfolio**](https://portfolio-three-livid-78.vercel.app/)🌟 
 
 <br/>
-
+<img src="giphy (2).gif" width="100%" />
 <img src="https://skillicons.dev/icons?i=c,java,python,js,r,solidity,rust,bash,nodejs,linux,aws,arduino&perline=6" />
 
 <br/><br/>
